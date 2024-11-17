@@ -7,6 +7,6 @@ output will be like this:::::
 
 
 
-*enkins---->Docker [CONTAINER]----EXCUTION DONE----- DELETED CONTAINER*
+*Jenkins---->Docker [CONTAINER]----EXCUTION DONE----- DELETED CONTAINER*
 
 
