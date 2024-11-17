@@ -1,6 +1,7 @@
 # Jenkins-Journey
 
 Jenkins right from installation Build end to end pipelines.
+![Screenshot from 2024-11-17 14-03-09](https://github.com/user-attachments/assets/5a16292a-f5c1-4f27-8c48-4011d9813513)
 
 ## Installation on EC2 Instance
 
