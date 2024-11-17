@@ -1,12 +1,32 @@
+///**************new updated code**************************
+
 pipeline {
-  agent {
-    docker { image 'node:16-alpine' }
-  }
-  stages {
-    stage('Test') {
-      steps {
-        sh 'node --version'
-      }
+    agent {
+        docker {
+            image 'node:16-alpine'
+            // Optionally you can specify additional configurations like `args` (to pass Docker arguments)
+        }
     }
-  }
+    stages {
+        stage('Test') {
+            steps {
+                sh 'node --version'  // This will run the `node --version` command inside the Docker container
+            }
+        }
+    }
 }
+
+
+
+// pipeline {
+//   agent {
+//     docker { image 'node:16-alpine' }
+//   }
+//   stages {
+//     stage('Test') {
+//       steps {
+//         sh 'node --version'
+//       }
+//     }
+//   }
+// }
