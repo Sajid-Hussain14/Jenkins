@@ -11,4 +11,4 @@ A simple todo app built with django
 
 You can find the complete details of the setup and configuration in the below video
 
-https://www.youtube.com/watch?v=ogrx8G8pClQ
+
