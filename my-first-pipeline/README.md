@@ -6,3 +6,7 @@ output will be like this:::::
 ![Screenshot from 2024-11-17 14-01-39](https://github.com/user-attachments/assets/69f27573-78fe-4f4d-ac0a-42e35917e317)
 
 
+
+*enkins---->Docker [CONTAINER]----EXCUTION DONE----- DELETED CONTAINER*
+
+
