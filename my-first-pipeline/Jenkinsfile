@@ -14,6 +14,12 @@ pipeline {
                 sh 'node --version'  // This will run the `node --version` command inside the Docker container
             }
         }
+        //WE CAN ADD MORE STAGE BASED ON NEEDS 
+        // stage('Deploy) {
+        //       steps {
+        //         sh 'kubectl apply -f deployment.yml'  // This will run the `node --version` command inside the Docker container
+        //     }
+        //       } etc etc
     }
 }
 
